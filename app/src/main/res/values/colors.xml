@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_bg">#FF121212</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="primary">#FF00C853</color> <!-- Emerald Green -->
+    <color name="primary_dark">#FF00B248</color>
+    <color name="accent">#FF64FFDA</color> <!-- Mint Teal -->
+    <color name="gray_text">#FF8E8E93</color>
+    <color name="transparent_green">#3300C853</color>
+</resources>

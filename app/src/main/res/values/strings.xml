@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scanner Pro</string>
+    <string name="import_gallery">Import from Gallery</string>
+    <string name="scan_now">Scan Document</string>
+    <string name="original">Original</string>
+    <string name="scanned">Scanned</string>
+    <string name="share">Share Scan</string>
+    <string name="save">Save to Gallery</string>
+    <string name="no_image">No image scanned yet</string>
+    <string name="detecting">Align document in frame...</string>
+    <string name="camera_permission_required">Camera permission is required to scan documents.</string>
+</resources>
